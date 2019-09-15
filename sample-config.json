@@ -1,5 +1,5 @@
 {
     "platform": "HarborBreezeHub",
-    "name": "Harbor Breeze Hub",
-    "netAddr": "127.0.0.1:8080"
+    "hubAddress": "127.0.0.1:8080",
+    "accessCode": "123456"
 }
