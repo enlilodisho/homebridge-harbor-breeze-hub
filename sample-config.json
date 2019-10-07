@@ -1,5 +1,5 @@
 {
-    "platform": "HarborBreezeHub",
-    "hubAddress": "127.0.0.1:8080",
-    "accessCode": "123456"
+    "platform": "HarborBreezePlatform",
+    "hub_address": "http://127.0.0.1:8080",
+    "access_code": "123456"
 }
